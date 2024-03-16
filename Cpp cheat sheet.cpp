@@ -1,7 +1,7 @@
 /* This is a C++ cheat sheet. */
 
 
-// Basics
+
 
 // Basic syntax and functions from the C++ programming language.
 

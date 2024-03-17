@@ -27,8 +27,6 @@ cin >> variable_name;
 
 // Data types
 
-// The data type is the type of data
-
 // Character type
 
 // Typically a single octet(one byte). It is an integer type

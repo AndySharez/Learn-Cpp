@@ -67,21 +67,15 @@ bool
 
 // Alarm or Beep
 
-// It produces a beep sound
-
 cout<<"\a";
 
 // Backspace
-
-// It adds a backspace
 
 cout<<"\b";
 
 // Form feed
 
 cout<<"\f";
-
-// Newline
 
 // Newline Character
 
@@ -93,53 +87,37 @@ cout<<"\r";
 
 // Tab
 
-// It gives a tab space
-
 cout<<"\t";
 
 // Backslash
-
-// It adds a backslash
 
 cout<<"\\";
 
 // Single quote
 
-// It adds a single quotation mark
-
 cout<<"\'";
 
 // Question mark
 
-// It adds a question mark
-
 cout<<"\?";
 
-// Octal No.
-
-// It represents the value of an octal number
+// Octal No.; represents the value of an octal number
 
 cout<<"\nnn";
 
-// Hexadecimal No.
-
-// It represents the value of a hexadecimal number
+// Hexadecimal No; represents the value of a hexadecimal number
 
 cout<<"\xhh";
 
-// Null
-
-// The null character is usually used to terminate a string
+// Null; the null character is usually used to terminate a string
 
 cout<<"\0";
 
 // Comments
 
-// A comment is a code that is not executed by the compiler, and the programmer uses it to keep track of the code.
-
 // Single line comment
 
-// - It's a single line comment
+// - is a single line comment
 
 // Multi-line comment
 
@@ -149,8 +127,6 @@ comment
 */
 
 // Strings
-
-// It is a collection of characters surrounded by double quotes
 
 // Declaring String
 
@@ -162,7 +138,7 @@ string variable1 = "Hello World";
 
 // append function
 
-// It is used to concatenate two strings
+// Used to concatenate two strings
 
 string firstName = "Harry ";
 string lastName = "Bhai";
@@ -171,7 +147,7 @@ cout << fullName;
 
 // length function
 
-// It returns the length of the string
+// Returns the length of the string
 
 string variable1 = "CodeWithHarry";
 cout << "The length of the string is: " << variable1.length();
